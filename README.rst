@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-This is a particle fountain based on OpenGL, and the programming language used is pure C.
+This is a particle fountain based on OpenGL, and the programming language used is C/C++.
 
 Effect
 ------
