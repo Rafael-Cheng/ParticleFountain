@@ -8,7 +8,7 @@ Effect
 
 Default effect looks like this:
 
-.. image:: https://github.com/Rafael-Cheng/ProxyYourSpider/blob/master/run_launch.png
+.. image:: https://github.com/Rafael-Cheng/ParticleFountain/blob/master/default_effect.gif
 
 Apart from that, you can enable ambient color and revolution and other configurations to make it more interesting. Just following the instruction of the menu you see as soon as you run this program.
 
