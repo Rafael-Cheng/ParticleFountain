@@ -6,7 +6,7 @@ This is a particle fountain based on OpenGL, and the programming language used i
 Effect
 ------
 
-Default effect looks like this:
+Default effect looks like this (It may take a few minutes to load the gif file):
 
 .. image:: https://github.com/Rafael-Cheng/ParticleFountain/blob/master/default_effect.gif
 
